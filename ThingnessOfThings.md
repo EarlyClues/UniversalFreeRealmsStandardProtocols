@@ -14,7 +14,7 @@
 * An entity has its "thingness" **within** the "thing" that is "everything itself."
 * "Everything itself" has as its nature, properties and characteristics **all of the "things"** - including "nothing itself."
 * An entity **doesn't have** its "thingness" within the "thing" that is "nothingness itself," but it does have it's "thingness" **in relation to** the "thing" that is "nothingness itself" as well as to all the other things.
-* "Nothing itself" has only itself as its nature, properties and characteristics, but is part of "everything."
+* "Nothing itself" has only itself as its nature, properties and characteristics. Though other things **have relation to** it, it itself **has no relation** to these other "things."
 
 **Each entity's "thingness" is relative to every other entities' "thingness", as well as to "everything itself" and "nothing itself."** 
 
