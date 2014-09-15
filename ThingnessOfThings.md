@@ -24,6 +24,6 @@ Clarification after [#6](https://github.com/EarlyClues/UniversalFreeRealmsStanda
 
 While it is true that "nothing" is **included in** "everything," it is also true that "nothing" exists **outside of** "everything." 
 
-We call this "nothing" that is external to "everything," the "Outer Darkness." And unlike the "nothing" that is included in "everything," this *other nothing* has no nature, properties & characteristics. 
+We call this "nothing" that is external to "everything," the "Outer Darkness." And unlike the "nothing" that is included in "everything," this *other nothing* has no nature, properties & characteristics other than its externality - which solely comprises its "thingness."
 
 ![screen shot 2014-09-15 at 6 52 44 pm](https://cloud.githubusercontent.com/assets/4110243/4280314/be81781c-3d2b-11e4-80ba-e6f4a3c90d19.png)
