@@ -19,3 +19,9 @@
 **Each entity's "thingness" is relative to every other entities' "thingness", as well as to "everything itself" and "nothing itself."** 
 
 ![Image of Flow Chart](http://cl.ly/image/203c2d0j3g1T/Screen%20Shot%202014-09-15%20at%206.25.26%20PM.png)
+
+While it is true that "Everything" **includes** "nothing," it is therefore also true that "nothing" exists **outside of** "everything." 
+
+We call this the "Outer Darkness." And unlike the "nothing" that exists within "everything," this "nothing" that is external to "everything" is not a "thing itself" and does not have its own nature, properties & characteristics.
+
+![screen shot 2014-09-15 at 6 52 44 pm](https://cloud.githubusercontent.com/assets/4110243/4280314/be81781c-3d2b-11e4-80ba-e6f4a3c90d19.png)
