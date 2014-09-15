@@ -20,7 +20,7 @@
 
 ![Image of Flow Chart](http://cl.ly/image/203c2d0j3g1T/Screen%20Shot%202014-09-15%20at%206.25.26%20PM.png)
 
-Clarification after [#6](https://github.com/EarlyClues/UniversalFreeRealmsStandardProtocols/issues/6):
+*Clarification after [#6](https://github.com/EarlyClues/UniversalFreeRealmsStandardProtocols/issues/6):*
 
 While it is true that "nothing" is **included in** "everything," it is also true that "nothing" exists **outside of** "everything." 
 
