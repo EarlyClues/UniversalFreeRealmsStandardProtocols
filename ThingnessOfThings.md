@@ -12,9 +12,9 @@
 
 **Each entity has its "thingness," its nature, properties and characteristics.**
 * And it has its "thingness" within the "thing" that is "everything itself."
-* *"Everything itself" has as its nature, properties and characteristics **all of the "things"** - including "nothing itself."*
+* "Everything itself" has as its nature, properties and characteristics **all of the "things"** - including "nothing itself."
 * An entity doesn't have its "thingness" within the "thing" that is "nothingness itself," but it does have it's "thingness" **in relation to** the "thing" that is "nothingness itself."
-* *"Nothing itself" has only itself as its nature, properties and characteristics, but is part of "everything."*
+* "Nothing itself" has only itself as its nature, properties and characteristics, but is part of "everything."
 
 **Each entity's "thingness" is relative to every other entities' "thingness", as well as to "everything itself" and "nothing itself."** 
 
