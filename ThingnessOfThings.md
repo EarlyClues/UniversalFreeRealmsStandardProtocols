@@ -7,12 +7,14 @@
 **Therefore: an entity may be something, nothing or everything.**
 * Though, generally "nothing" and "everything" are reserved designations.
 
-But for practicality, an entity is "a thing itself," and this same definition applies for each entity. 
-    (Even "nothing" and "everything" are "things themselves.")
+**But for practicality, an entity is "a thing itself," and this same definition applies for each entity.**
+* Even "nothing" and "everything" are "things themselves."
 
-Each entity has its "thingness," its nature, properties and characteristics. 
-    And it has its "thingness" within the "thing" that is "everything itself." 
-    It doesn't have its "thingness" within the "thing" that is "nothingness itself," but it does have it's "thingness" in relation to the "thing" that is "nothingness itself."
+**Each entity has its "thingness," its nature, properties and characteristics.**
+* And it has its "thingness" within the "thing" that is "everything itself."
+* * "Everything itself" has as its nature, properties and characteristics all of the "things" - including "nothing itself."
+* An entity doesn't have its "thingness" within the "thing" that is "nothingness itself," but it does have it's "thingness" in relation to the "thing" that is "nothingness itself."
+* * "Nothing itself" has only itself as its nature, properties and characteristics, but is part of "everything."
 
-Each entity's "thingness" is relative to every other entities' "thingness", as well as to "everything itself" and "nothing itself." 
+**Each entity's "thingness" is relative to every other entities' "thingness", as well as to "everything itself" and "nothing itself."** 
 
