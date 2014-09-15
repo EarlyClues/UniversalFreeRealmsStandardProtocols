@@ -1,11 +1,11 @@
 # THE THINGNESS OF "THINGS"
 
-* An entity is a thing; it is "something."
+**An entity is a thing; it is "something."**
 * An entity is not "nothing," unless it is "nothing itself," which is itself also an entity.
 * An entity is not "everything," unless it is "everything itself," which is itself an entity.
 
-Therefore: an entity may be something, nothing or everything.
-Though, generally "nothing" and "everything" are reserved designations.
+**Therefore: an entity may be something, nothing or everything.**
+* Though, generally "nothing" and "everything" are reserved designations.
 
 But for practicality, an entity is "a thing itself," and this same definition applies for each entity. 
     (Even "nothing" and "everything" are "things themselves.")
