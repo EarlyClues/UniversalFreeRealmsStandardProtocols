@@ -18,4 +18,4 @@
 
 **Each entity's "thingness" is relative to every other entities' "thingness", as well as to "everything itself" and "nothing itself."** 
 
-![Image of Yaktocat](http://cl.ly/image/203c2d0j3g1T/Screen%20Shot%202014-09-15%20at%206.25.26%20PM.png)
+![Image of Flow Chart](http://cl.ly/image/203c2d0j3g1T/Screen%20Shot%202014-09-15%20at%206.25.26%20PM.png)
