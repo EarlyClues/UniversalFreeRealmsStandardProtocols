@@ -20,6 +20,8 @@
 
 ![Image of Flow Chart](http://cl.ly/image/203c2d0j3g1T/Screen%20Shot%202014-09-15%20at%206.25.26%20PM.png)
 
+Clarification after [#6](https://github.com/EarlyClues/UniversalFreeRealmsStandardProtocols/issues/6):
+
 While it is true that "Everything" **includes** "nothing," it is therefore also true that "nothing" exists **outside of** "everything." 
 
 We call this the "Outer Darkness." And unlike the "nothing" that exists within "everything," this "nothing" that is external to "everything" is not a "thing itself" and does not have its own nature, properties & characteristics.
