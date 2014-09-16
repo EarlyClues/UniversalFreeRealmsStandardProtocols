@@ -4,7 +4,7 @@
 
 Example:
 
-* Entity.Ape sees Entity.Banana, calls Meaning_Function from Universal API to produce a foundational Wex between Relationality of Entity.Banana and Maintenance of Entity.Ape.*
+* Entity.Ape sees Entity.Banana, calls Meaning_Function from Universal API to produce a foundational Wex between Relationality of Entity.Banana and Maintenance of Entity.Ape. Wex in Entity.Ape.PUBLIC produces "EAT" function.
 
 **"Everything" and "Nothing" are the only Things that have inherent Meaning Functions.** All other Things must call Meaning Functions from the Universal API.
 
