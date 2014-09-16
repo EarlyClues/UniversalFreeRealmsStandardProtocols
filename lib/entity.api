@@ -2,7 +2,7 @@ object Entity < Thingness
 
   define method create(arguments)
     self
-    # TODO Meaning Function?
+    # TODO Meaning Function? 
   end
 
   define abstract method asummption_of_thingness
