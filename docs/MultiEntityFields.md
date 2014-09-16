@@ -27,7 +27,8 @@ Field> self = Entity, Entity1, Entity2, Entity3
 And `field.self.state` would yield as public results to entities which compose that field the public state (if any) of entities composing that field, as well as relational data between entities. 
 
 
-```Entity> query field.self.state
+```
+Entity> query field.self.state
 Field> self = Entity.state:default, Entity1.state:protected, Entity2.state:current, Entity3.state:default
 Field> self.state = Entity is next to Entity1. Entity2 is above Entity3. Entity is to the left of Entity2
 ```
