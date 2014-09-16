@@ -20,3 +20,5 @@ Within the [ideological framework of entities which are both state-aware and aut
 > entity.self.state = default
 > Entity> define entity.self.state:current //current state
 > entity.self.state = current
+
+**See sample code in [lib/self.api](https://github.com/EarlyClues/UniversalFreeRealmsStandardProtocols/blob/master/lib/self.api)**
