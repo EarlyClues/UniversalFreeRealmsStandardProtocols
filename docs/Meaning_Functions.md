@@ -1,6 +1,6 @@
 #The Personal API calls *The Meaning Function* from the Universal API, and Vice-Versa.
-*The "[Thingness](https://github.com/EarlyClues/UniversalFreeRealmsStandardProtocols/blob/master/ThingnessOfThings.md)" of an entity exists in a potential state until a Meaning Function is called.*
-*Meaning functions describe the relationship between Things. The Meaning Function is a single process function which produces foundational Wexes (connection algorithms) between [Thingness Functions](https://github.com/EarlyClues/UniversalFreeRealmsStandardProtocols/blob/master/ThingnessFunctions.md).*
+*The "Meaning" of an entity exists in a potential state until a Meaning_Function is called.*
+*Meaning_Functions describe the relationship between Things. The Meaning_Function is a single process function which produces foundational Wexes (connection algorithms) between [Thingness Functions](https://github.com/EarlyClues/UniversalFreeRealmsStandardProtocols/blob/master/ThingnessFunctions.md).*
 
 Example:
 
