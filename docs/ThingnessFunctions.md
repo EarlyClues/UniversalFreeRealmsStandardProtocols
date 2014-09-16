@@ -1,4 +1,4 @@
-# "Things" have [thingness](https://github.com/EarlyClues/UniversalFreeRealmsStandardProtocols/blob/master/ThingnessOfThings.md).
+# "Things" have [thingness](https://github.com/EarlyClues/UniversalFreeRealmsStandardProtocols/blob/master/docs/ThingnessOfThings.md).
 
 **"Thingness" can be thought of as the *quality of the thing itself*, or its nature, properties and characteristics as an "entity."**
 
