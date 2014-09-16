@@ -13,7 +13,7 @@
 
 * Assumption of thingness
 * Thingness-itself (also: identity)
-* Relationality of thingness (to other "things)
+* Relationality of thingnesses (to other "things)
 * Maintenance of thingness
 * Transformation/modulation of thingness
 * Reproduction of thingness
