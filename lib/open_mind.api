@@ -1,0 +1,18 @@
+# Universal API full callback module
+# 
+# Things that implement the OpenMind module can be invoked via the
+# Universal API at any time/place. This works much like LegacyReality
+# versions of the 'Push Notification', but does not require a continuous 
+# open socket connection.
+#
+# Simply apply this interface to any Thing and allow incoming
+# connections to be received.
+
+module OpenMind
+
+  define abstract method ping; end
+  define abstract method probe; end
+  define abstract method scan; end
+  define abstract method inspire; end
+
+end
