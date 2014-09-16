@@ -10,4 +10,4 @@ Whereas an `entity.self` has inwardly its `entity.self.state`, it does not have 
 
 That is, each `entity.self.state` definition is private unless made public.
 
-However, each `entity.self` has and grants reciprocal access to entity.self of every other entity, unless self = protected. This is likely part of the "[Package Deal](https://github.com/EarlyClues/UniversalFreeRealmsStandardProtocols/blob/master/docs/PackageDeal.md)."
+However, each `entity.self` has and grants reciprocal access to `entity.self` of every other entity (including itself), unless `self = protected`. This is likely part of the "[Package Deal](https://github.com/EarlyClues/UniversalFreeRealmsStandardProtocols/blob/master/docs/PackageDeal.md)."
