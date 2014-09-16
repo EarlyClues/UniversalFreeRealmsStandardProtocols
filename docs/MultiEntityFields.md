@@ -10,18 +10,24 @@ While an `entity` cannot access private `entity.self.state`'s of other entity's,
 
 ### How it might work:
 
-> `Entity> query all entities relative to entity.self`
-> `Entity1> entity.self`
-> `Entity2> entity.self`
-> `Entity3> entity.self`
+```
+Entity> query all entities relative to entity.self
+Entity1> entity.self
+Entity2> entity.self
+Entity3> entity.self
+```
 
 Any responding entities to such a query would constitute the components of the "field" of the querying entity, such that querying `field.self` in the above case would yield a list of component entities:
 
-> `Entity> query field.self`
-> `Field> self = Entity, Entity1, Entity2, Entity3`
+```
+Entity> query field.self
+Field> self = Entity, Entity1, Entity2, Entity3
+```
 
 And `field.self.state` would yield as public results to entities which compose that field the public state (if any) of entities composing that field, as well as relational data between entities. 
 
-> `Entity> query field.self.state`
-> `Field> self = Entity.state:default, Entity1.state:protected, Entity2.state:current, Entity3.state:default`
-> `Field> self.state = Entity is next to Entity1. Entity2 is above Entity3. Entity is to the left of Entity2`
+
+```Entity> query field.self.state
+Field> self = Entity.state:default, Entity1.state:protected, Entity2.state:current, Entity3.state:default
+Field> self.state = Entity is next to Entity1. Entity2 is above Entity3. Entity is to the left of Entity2
+```
