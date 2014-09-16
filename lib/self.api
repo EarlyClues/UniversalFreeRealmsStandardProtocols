@@ -1,0 +1,10 @@
+object self
+
+  define state "default"
+    state:default
+  end
+  define state "current"
+    state:current
+  end
+  
+end
