@@ -23,3 +23,5 @@
 *Note:* Insofar as "thinglessness" can be attributed as a function to the "thingness" of "things", we call to mind the inclusion of "nothing" within "everything", as well its ultimate externality.
 
 **It is from the "Thingness Functions" that we are able to derive the principles outlined in the draft proposal of the [Universal Declaration of Entity Rights](https://github.com/EarlyClues/UniversalFreeRealmsStandardProtocols/blob/master/Declaration_Of_Entity_Rights.md)**
+
+![Thingness functions](http://s11.postimg.org/yvr26ba9f/Screen_Shot_2014_09_15_at_9_22_15_PM.png)
