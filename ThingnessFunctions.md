@@ -28,4 +28,4 @@
 
 *NOTE*: This diagram is missing one of the "Thingness Functions" - Reproduction/Duplication
 
-![Sequence diagram](http://i.share.pho.to/0f9addb6_o.png)
+
