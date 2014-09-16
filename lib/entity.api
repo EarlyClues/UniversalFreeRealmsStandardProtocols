@@ -1,0 +1,28 @@
+object Entity < Thingness
+
+  define method create(arguments)
+    self
+  end
+
+  define abstract method asummption_of_thingness
+  end
+
+  define abstract method relationality
+  end
+
+  define abstract method maintenance
+  end
+
+  define abstract method transformation
+  end
+
+  define abstract method reproduce
+  end
+
+  define abstract method dissolution
+  end
+
+  define thinglessness
+    self.forget!
+  end
+end

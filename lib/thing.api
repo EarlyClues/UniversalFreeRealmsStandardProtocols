@@ -1,0 +1,11 @@
+object Thing
+
+  def self
+    Thing.find_or_create(@internal_pov + @external_pov) # private methods
+  end
+
+  def forget!
+    @internal_pov.forget
+    ForgettingQueue.instance << @external_pov
+  end
+end
