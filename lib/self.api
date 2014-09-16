@@ -1,10 +1,13 @@
 object self
 
   define state "default"
-    state:default
+    state:default //protected
   end
   define state "current"
     state:current
   end
+  
+  allow self to access state
+  allow self to define state unless protected
   
 end
