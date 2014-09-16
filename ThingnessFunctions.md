@@ -1,4 +1,4 @@
-**"Things" have [thingness](https://github.com/EarlyClues/UniversalFreeRealmsStandardProtocols/blob/master/ThingnessOfThings.md).**
+# "Things" have [thingness](https://github.com/EarlyClues/UniversalFreeRealmsStandardProtocols/blob/master/ThingnessOfThings.md).
 
 * "Thingness" can be thought of as the *quality of the thing itself*, or its nature, properties and characteristics as an "entity."
 
@@ -9,7 +9,7 @@
 
 **The "Thingness" of the Thingness-Itself may be usefully considered as a range of functions, capacities or capabilities of the "Thingness."**
 
-*The Thingness Functions are:*
+## The Thingness Functions are:
 
 * Assumption of thingness
 * Thingness-itself (also: identity)
