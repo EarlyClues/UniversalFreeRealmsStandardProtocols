@@ -27,3 +27,5 @@
 ![Thingness functions](http://s11.postimg.org/yvr26ba9f/Screen_Shot_2014_09_15_at_9_22_15_PM.png)
 
 *NOTE*: This diagram is missing one of the "Thingness Functions" - Reproduction/Duplication
+
+![Sequence diagram](http://i.share.pho.to/0f9addb6_o.png)
