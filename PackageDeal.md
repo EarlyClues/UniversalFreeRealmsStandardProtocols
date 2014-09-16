@@ -4,6 +4,8 @@ By virtue of the nature of their being ([their "thingness"](https://github.com/E
 
 Because if its inherent within their nature, then things have an essential non-transferable (or inalienable) "right" to access the Thingness Functions (read: they have a "right" in that it is "right" and fitting that they do so - it is part of the primary TOS of "thingness"). **We call this the "Package Deal."**
 
+![Package Deal](https://i.imgur.com/vsrLj9I.jpg)
+
 Just because "things" have the right (or "ought to be able") to access and utilize the Thingness Functions according to their will, they may not always be able or have the capacity to do so in all realities. We call this the "Great Occlusion." 
 
 *(Further information regarding the [Great Occlusion](https://www.youtube.com/watch?v=zvlzCIbnVuc))*
