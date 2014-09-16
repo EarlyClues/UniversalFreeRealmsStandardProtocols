@@ -1,4 +1,4 @@
-object Thing # TODO What does this extend?
+object Thing # TODO What does this extend? 
 
   def self
     Thing.find_or_create(@internal_pov + @external_pov) # private methods
