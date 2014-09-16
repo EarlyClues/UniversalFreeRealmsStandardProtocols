@@ -4,7 +4,7 @@
 
 **An entity, then - as a thing - has its "thingness."**
 
-* The "thingness" of things, in turn, has its own "thingness" - that is, the thingness of not the "thing itself" but of the thingness-itself. 
+* The "thingness" of things, in turn, has its own "thingness" - that is, the thingness of not the "thing itself" but of the "thingness-itself." 
 * Though a "thing itself," the "thingness-itself" as a "thing" is also linked to the "thing" of which it is a component, and through which the "thingess" is likewise expressed.
 
 **The "Thingness" of the Thingness-Itself may be usefully considered as a range of functions, capacities or capabilities of the "Thingness."**
