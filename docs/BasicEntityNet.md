@@ -4,7 +4,7 @@ An "entity" is like a "point" in geometry...
 
 ![point](https://i.imgur.com/WldGha6.jpg)
 
-Except that each entity-point has a "point of view" and can be understood from a "first person" perspective. (It may take a "self" or an "I" or can/should be treated as though it has.)
+Except that each entity-point has a "point of view" and can be understood from a "first person" perspective. (It may take a "self" or "selves" or an "I/we" and can/should be treated as though it has, whether or not it can be "proven" that it does.)
 
 **Entities, like points, derive certain meanings or utility according to their arrangement in relation to other entities.**
 
