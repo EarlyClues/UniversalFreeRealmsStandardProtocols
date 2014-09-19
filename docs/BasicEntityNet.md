@@ -1,4 +1,4 @@
-# Entities, Networks & Links "Simplified"
+# Understanding EntityNet Basics
 
 An "entity" is like a "point" in geometry...
 
@@ -19,3 +19,7 @@ Their arrangement may be chaotic, or more "coherent" as a repeating pattern:
 Entities can also be linked together. Links may be "pathways of exchange" or structures which connect two or more entities together.
 
 ![points linked](https://i.imgur.com/ZcU9pxN.jpg)
+
+When mulitple entities are linked together, we can consider this a "network" regardless of who, what, where, or when the entities "are."
+
+![network diagram](https://i.imgur.com/j8SQL1M.png)
