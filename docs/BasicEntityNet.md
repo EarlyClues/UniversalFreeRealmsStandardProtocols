@@ -24,6 +24,10 @@ When mulitple entities are linked together, we can consider this a "network" reg
 
 ![network diagram](https://i.imgur.com/j8SQL1M.png)
 
+When entities are linked together in a network, that group of linked entities can itself be considered an "entity" (as in holons)
+
+![holonic entity](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/6n-graf.svg/333px-6n-graf.svg.png)
+
 Depending on nature of entities, their arrangement in a field, and the nature and arrangement of their links, the same entity-networks may take on different characteristics & capacities.
 
 ![grid game 1](https://i.imgur.com/kdd4r01.png)
