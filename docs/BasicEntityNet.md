@@ -26,4 +26,6 @@ When mulitple entities are linked together, we can consider this a "network" reg
 
 Depending on nature of entities, their arrangement in a field, and the nature and arrangement of their links, the same entity-networks may take on different characteristics & capacities.
 
-![grid game 1]()
+![grid game 1](https://i.imgur.com/kdd4r01.png)
+
+![grid game 2](https://i.imgur.com/P2b6W8F.png)
