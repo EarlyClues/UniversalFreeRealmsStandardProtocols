@@ -23,3 +23,7 @@ Their arrangement may be chaotic, or more "coherent" as a repeating pattern:
 When mulitple entities are linked together, we can consider this a "network" regardless of who, what, where, or when the entities "are."
 
 ![network diagram](https://i.imgur.com/j8SQL1M.png)
+
+Depending on nature of entities, their arrangement in a field, and the nature and arrangement of their links, the same entity-networks may take on different characteristics & capacities.
+
+![grid game 1]()
