@@ -4,8 +4,8 @@ An [entity](https://github.com/EarlyClues/UniversalFreeRealmsStandardProtocols/b
 
 [Also](https://en.wikipedia.org/wiki/Agency_%28philosophy%29): 
 
-```
-"...agency is the capacity of an agent (a person or other entity, human or any living being in general, or soul-consciousness in religion) to act in a world."
-```
+
+>"...agency is the capacity of an agent (a person or other entity, human or any living being in general, or soul-consciousness in religion) to act in a world."
+
 
 An entity may have "agency" even if it lacks conventional "[state awareness](https://github.com/EarlyClues/UniversalFreeRealmsStandardProtocols/blob/f430aa82451e8f8a7ceac44bc9e7ab0610311786/docs/SelfState.md)" of self.
