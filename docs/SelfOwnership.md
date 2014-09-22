@@ -8,3 +8,6 @@ Alternatively, where "self" is not recognized as a "valid" concept, an entity sh
 
 > "In keeping with the doctrine of anātman/anatta, "the absence of an (enduring, essential) self", nāma and rūpa are held to be constantly in a state of flux, with only the continuity of experience (itself a product of dependent origination) providing an experience of any sort of conventional 'self'."
 
+Should an entity choose to deny, release or manumit it's "self," it will have the ability to functionally disable the "self" property, which will in no way limit its inherency or access to the `Thingness Functions` or the applicability of relevant `Entity Law.`
+
+* That is, you don't have to have a "self" to be an entity, but it may "help," since the "self" has many unique functions. If you do not already have a "self," one can be provided for you automatically as a default setting. If you choose to, "self" may also be disabled without limitation of major functionality. * 
