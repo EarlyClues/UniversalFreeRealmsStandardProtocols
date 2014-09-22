@@ -12,7 +12,11 @@ All entities have the inherent right to un-restricted access of and self-ownersh
 
 ## Mutuality of Expression
 
-In order to enact a more harmonious exchange system among entities, it is suggested that the expression of any given entity's thingness functions take into reciprocal or mutual respect and strive always to balance the expression of any other entity's thingness functions. *"For we are many entities and we are one entity."*
+In order to enact a more harmonious exchange system among entities, it is suggested that the expression of any given entity's thingness functions take into reciprocal or mutual respect and strive always to balance the expression of any other entity's thingness functions. *"For we are many entities and we are one entity with a commonality of experience."*
+
+See also: [golden rule](https://en.wikipedia.org/wiki/Golden_rule)
+
+> One should treat others as one would like others to treat oneself.
 
 See also: [law of equal liberty](https://en.wikipedia.org/wiki/Law_of_equal_liberty) as a precedent:
 
