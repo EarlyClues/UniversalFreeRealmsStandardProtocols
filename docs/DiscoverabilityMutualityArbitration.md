@@ -1,4 +1,4 @@
-# Rights Under the UFR
+# Principles of Interaction Under the UFR
 
 As is understood in the Universal Free Realms, the "[thingness functions](https://github.com/EarlyClues/UniversalFreeRealmsStandardProtocols/blob/master/docs/ThingnessFunctions.md)" of "things" co-arises interdependently from the "[thingness of things](https://github.com/EarlyClues/UniversalFreeRealmsStandardProtocols/blob/master/docs/ThingnessOfThings.md)."
 
