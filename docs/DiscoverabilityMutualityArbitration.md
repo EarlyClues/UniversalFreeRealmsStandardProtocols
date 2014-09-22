@@ -14,6 +14,10 @@ All entities have the inherent right to un-restricted access of and self-ownersh
 
 In order to enact a more harmonious exchange system among entities, it is suggested that the expression of any given entity's thingness functions take into reciprocal or mutual respect and strive always to balance the expression of any other entity's thingness functions. *"For we are many entities and we are one entity."*
 
+See also: [law of equal liberty](https://en.wikipedia.org/wiki/Law_of_equal_liberty) as a precedent:
+
+> "each has freedom to do all that he wills provided that he infringes not the equal freedom of any other."
+
 ## Access To Impartial Abritration
 
 In cases where entities are unable to voluntarily and peacefully decide amongst themselves the respectful and mutually-balanced expression of their various thingness functions, entities abiding by the Standard Protocols of the Universal Free Realms shall have recourse to impartial [arbitration](https://en.wikipedia.org/wiki/Arbitration), which will examine the public exchange record of the entities in question, and the regulations relevant to the situation at hand, and will return an agreement binding/non-binding to both parties.
