@@ -40,4 +40,4 @@ As
 
 **Cat "has" me.**
 
-That is, "entity" and "self" are co-owners of their mutual relationship of "ownership." Any modifications or re-assignments of that relationship would require the **voluntary contractual assent** of both parties. 
+That is, "entity" and "self" are co-owners of their mutual relationship of "ownership," as are "me" and "cat." Any modifications or re-assignments of that relationship would require the **voluntary contractual assent** of both parties. 
