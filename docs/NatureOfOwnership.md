@@ -32,4 +32,12 @@ With the above duplex-approach applied, we can also say:
 
 **Self "has" entity.**
 
+Or
+
+**I "have" cat.**
+
+As
+
+**Cat "has" me.**
+
 That is, "entity" and "self" are co-owners of their mutual relationship of "ownership." Any modifications or re-assignments of that relationship would require the **voluntary contractual assent** of both parties. 
