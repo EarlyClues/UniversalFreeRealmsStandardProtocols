@@ -29,3 +29,7 @@ In cases where entities are unable to voluntarily and peacefully decide amongst 
 ## Appeal of Arbitration
 
 Appeal of arbitration will be made available "where available."
+
+## Voluntary Contractual Agreements
+
+In order to engage in exchanges and other types of assignments, entities operating according to UFR Standard Protocols should strive always to engage in voluntary contractual agreements which benefit all involved parties mutually. 
