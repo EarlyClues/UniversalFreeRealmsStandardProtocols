@@ -19,6 +19,13 @@ It is from this under-lying interrelatedness of "things" that `EntityNET` can be
 
 ### What is meant by "commonality of experience?"
 
-In that all entities can be considered to be a part of a `Continuum` that connects to all entities directly through the `Everything` function of the `Universal API`, it can be said that all entities have certain things in "common:" **Their existence as "things," their access to the `Thingness Functions`, their options regarding `self`, their relatedness to other "things, their common governing rulesets and principles of interaction.**
+In that all entities can be considered to be a part of a `Continuum` that connects to all entities directly through the `Everything` function of the `Universal API`, it can be said that all entities have certain things in "common:" 
 
-While entity form, capacity and myriad other factors may be 'different,' we always all have at least "those things" in common. 
+* Their existence as "things,"
+* their access to the `Thingness Functions`, 
+* their options regarding `self`, 
+* their relatedness to other "things," 
+* their common governing rulesets and principles of interaction
+
+
+While entity form, capacity and myriad other factors may be 'different,' we always all have **at least** "those 5 things" in common. 
