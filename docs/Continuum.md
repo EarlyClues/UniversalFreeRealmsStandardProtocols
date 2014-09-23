@@ -15,7 +15,7 @@ It can be said, then, that all entities are effectively "embedded" in the `Conti
 
 **Through the Continuum, each singular being is also able to be "many."**
 
-It is from this under-lying interrelatedness of "things" that EntityNET can be built using the [Principles of Interaction](https://github.com/EarlyClues/UniversalFreeRealmsStandardProtocols/blob/master/docs/DiscoverabilityMutualityArbitration.md) as expressible in `Local Realms`.
+It is from this under-lying interrelatedness of "things" that `EntityNET` can be built using the [Principles of Interaction](https://github.com/EarlyClues/UniversalFreeRealmsStandardProtocols/blob/master/docs/DiscoverabilityMutualityArbitration.md) as expressible in `Local Realms`.
 
 ### What is meant by "commonality of experience?"
 
