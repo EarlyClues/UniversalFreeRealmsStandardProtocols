@@ -2,7 +2,7 @@
 
 Whereas, an entity as a "thing itself" can be said to ["have" itself](https://github.com/EarlyClues/UniversalFreeRealmsStandardProtocols/blob/master/docs/SelfState.md)... (*while still retaining the [option to "not have"](https://github.com/EarlyClues/UniversalFreeRealmsStandardProtocols/blob/master/docs/SelfOwnership.md) if desired*)
 
-And whereas, [access to/discoverability of the `Thingness Functions`](https://github.com/EarlyClues/UniversalFreeRealmsStandardProtocols/blob/master/docs/DiscoverabilityMutualityArbitration.md) of any `entity` or `thing` may not be blocked... 
+And whereas, [access to/discoverability of the `Thingness Functions`](https://github.com/EarlyClues/UniversalFreeRealmsStandardProtocols/blob/master/docs/DiscoverabilityMutualityArbitration.md) of any `entity` or `thing` may not be blocked (*except where exercise of those functions inhibits the equal expression of those functions in other entities*)... 
 
 We come to the question of "ownership" by entities of "things" that are not "themselves."
 
@@ -20,7 +20,7 @@ What then, if anything, under the UFR principles would "ownership" consist of?
 
 Perhaps "ownership" could be re-evaluated as just another type of relationship between entities. One might put forward a notion of "mutual belonging" to describe this revised concept of ownership. 
 
-That is, two entities which can be said to be engaged in an "ownership" relationship do so willingly, contractually, and according to a principle of reciprocity or "duplexing".
+**That is, two entities which can be said to be engaged in an "ownership" relationship do so willingly, contractually, and according to a principle of reciprocity or "duplexing".**
 
 *For example:*
 
