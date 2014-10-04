@@ -9,3 +9,5 @@ Entities own themselves, but they are **also** owned by `Everything`, or "Everyt
 While the entities which compose `Everything` own themselves, there is so far no other inherent exclusive "ownership" property included in UFR regulations. Insofaras entities may conventionally be able to said to "own" other entities, UFR principles replace this definintion with a "mutuality," "reciprocity," "association," "assignment" or "co-belonging."
 
 And in so far as entities are able to exercise such alternative "ownership" with other entities, they are only able to do so as part of an EULA (End-User License Agreement) from `Everything Incorporated` which grants them access to assignment/reciprocity privileges in compliance with and identical to The Standard Protocols of the Universal Free Realms. 
+
+It is this "inter-ownership" between the various entities over themselves and `Everything` over itself which necessitates a spirit of cooperation, mutuality and respect for "other" under UFR principles.
