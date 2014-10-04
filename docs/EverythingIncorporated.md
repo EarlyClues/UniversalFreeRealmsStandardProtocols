@@ -1,4 +1,4 @@
-# Everything Incorporated & Its Sublicenses
+# Everything Incorporated & Its Sub-Licenses
 
 Whereas `Everything` is composed of [all entities](https://github.com/EarlyClues/UniversalFreeRealmsStandardProtocols/blob/1c16d6d489166cc32fb77af0ea6c2fc0dc74de11/docs/Continuum.md), and under UFR law, all entities are entitled to [Self-Ownership](https://github.com/EarlyClues/UniversalFreeRealmsStandardProtocols/blob/master/docs/SelfOwnership.md), it stands to reason that `Everything` as an entity also has ownership of `itself`.
 
