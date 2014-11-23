@@ -4,8 +4,6 @@ Telepresence Robot Operational Standards Recommendations
 Preamble:
 ---------
 
----
-
 *WHEREAS the emerging field of telepresence robotics is still in its infancy…*
 
 &
