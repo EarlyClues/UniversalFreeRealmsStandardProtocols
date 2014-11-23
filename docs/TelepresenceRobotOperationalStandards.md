@@ -26,7 +26,7 @@ Preliminary Definitions:
 ------------------------
 
 * “State” is understood as the current status of the telepresence robot unit, the activity of its sensors and output components, and its reception & transmission of remote control data.
-* “Functionality” is understood as the physical/technological capabilities or capacities of the telepresence robot unit and its components.
+* “Functionality” is understood as the physical/technological capabilities or capacities of the telepresence robot unit and its constituent components.
 * “Controls” are understood as the mechanism or trigger whereby functionality may be accessed or activated by remote operator, or in some cases by local user, or robot-itself.
 
 ---
@@ -36,8 +36,9 @@ Preliminary Definitions:
 
 
 State data of telepresence robot should be continuously available to both remote operator (sender), local user (receiver), and to the robot itself.
-Recommended Minimum Available State Data:
 
+Recommended Minimum Available State Data:
+-----------------------------------------
 
 `State.battery` 
 * .percent, .range
@@ -67,8 +68,9 @@ Recommended Minimum Available State Data:
 
 
 Available functionality and assigned controls should be accessibly displayed, readily apparent, easily discoverable and/or immediately available on request to both remote operator and local user.
-Recommended Minimum Available Functionality:
 
+Recommended Minimum Available Functionality:
+--------------------------------------------
 
 **Note: Locomotion and camera should be independently controllable.**
 
