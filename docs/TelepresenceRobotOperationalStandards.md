@@ -119,3 +119,5 @@ Concluding Notes
 The recommendations set forth in this document are by no means meant to be exhaustive, but rather to give a starting point for further discussion and exploration amongst telepresence robotics stakeholders and interested parties as these technologies become more widespread and commonplace.
 
 We welcome your comments, suggestions, corrections & improvements.
+
+This document is dedicated to the Public Domain.
